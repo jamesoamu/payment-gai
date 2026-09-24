@@ -1,0 +1,6 @@
+{
+  "name": "EduPay Tracker - School Fees & Paystack Billing",
+  "description": "Comprehensive school fee and tutorial academy payment tracking dashboard with pending balance management, automated reminders, receipt generation, and Paystack subscription billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
